@@ -12,17 +12,16 @@
 
 ### 🔧 `soup-cli`
 
-[![Pipeline](https://gitlab.com/PyroCentral/soup-cli/badges/main/pipeline.svg)](https://gitlab.com/PyroCentral/soup-cli/-/pipelines?ref=main)
-[![Coverage](https://gitlab.com/PyroCentral/soup-cli/badges/main/coverage.svg)](https://gitlab.com/PyroCentral/soup-cli/-/pipelines?ref=main)
-[![Release](https://gitlab.com/PyroCentral/soup-cli/badges/release.svg?order_by=release_at)](https://gitlab.com/PyroCentral/soup-cli/-/releases)
+[![Pipeline](https://gitlab.com/PyroCentral/soup-cli/badges/main/pipeline.svg)](https://gitlab.com/PyroCentral/Soupcan/-/pipelines?ref=main)
+[![Coverage](https://gitlab.com/PyroCentral/Soupcan/badges/main/coverage.svg)](https://gitlab.com/PyroCentral/Soupcan/-/pipelines?ref=main)
+[![Release](https://gitlab.com/PyroCentral/Soupcan/badges/release.svg?order_by=release_at)](https://gitlab.com/PyroCentral/Soupcan/-/releases)
 
 ---
 
 ### 📂 Other GitLab Projects
-
-- [soup-cli](https://gitlab.com/PyroCentral/soup-cli) — CAN bus CLI toolkit  
-- [soup-web](https://gitlab.com/PyroCentral/soup-web) — Frontend in HTML/CSS/JS  
-- [utils-scripts](https://gitlab.com/PyroCentral/utils-scripts) — Bash & Python tools
+ 
+- [Soupcan](https://gitlab.com/PyroCentral/Soupcan) — Soupcan Unblocked Games Site 
+- [Games (Gitlab)](https://gitlab.com/PyroCentral/Games) — All Games On Soupcan and more...
 
 ---
 
@@ -32,9 +31,9 @@
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
-![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
 
 ---
 
 <p align="center">🔗 <a href="https://soupcan.site">soupcan.site</a> • 🦊 <a href="https://gitlab.com/PyroCentral">GitLab @PyroCentral</a></p>
+
+<h6>![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)</h6>
