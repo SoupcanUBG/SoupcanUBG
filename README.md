@@ -42,5 +42,5 @@
 ![ChromeOS](https://img.shields.io/badge/ChromeOS-4285F4?logo=googlechrome&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
-![Soupcan](https://badgen.net/badge/Soupcan/0D8ABC/blue?icon=https%3A%2F%2Fgitlab.com%2FPyroCentral%2Fsoupcan%2F-%2Fraw%2Fmain%2Fbrand%2Ffavicon.ico)
+![Soupcan](https://badgen.net/badge/Soupcan/Active/0D8ABC?icon=https%3A%2F%2Fgitlab.com%2FPyroCentral%2Fsoupcan%2F-%2Fraw%2Fmain%2Fbrand%2Ffavicon.ico)
 
