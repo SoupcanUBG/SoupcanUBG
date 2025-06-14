@@ -4,16 +4,16 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/SoupcanUBG">
+  <a href="https://gitlab.com/PyroCentral">
     <img src="https://komarev.com/ghpvc/?username=SoupcanUBG&style=flat-square&color=blue"
          alt="Profile Views" />
   </a>
-  <a href="https://github.com/SoupcanUBG">
-    <img src="https://github-readme-stats.vercel.app/api?username=SoupcanUBG&show_icons=true&theme=radical"
+  <a href="https://github.com/PyroCentral">
+    <img src="https://gitlab-readme-stats.vercel.app/api?username=SoupcanUBG&show_icons=true&theme=radical"
          alt="GitHub Stats" />
   </a>
-  <a href="https://github.com/SoupcanUBG">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SoupcanUBG&layout=compact&theme=radical"
+  <a href="https://gitlab.com/PyroCentral">
+    <img src="https://gitlab-readme-stats.vercel.app/api/top-langs/?username=SoupcanUBG&layout=compact&theme=radical"
          alt="Top Languages" />
   </a>
 </p>
