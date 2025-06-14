@@ -36,4 +36,4 @@
 
 <p align="center">🔗 <a href="https://soupcan.site">soupcan.site</a> • 🦊 <a href="https://gitlab.com/PyroCentral">GitLab @PyroCentral</a></p>
 
-<h6>![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)</h6>
+![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
