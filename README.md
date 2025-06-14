@@ -22,6 +22,7 @@
  
 - [Soupcan](https://gitlab.com/PyroCentral/Soupcan) — Soupcan Unblocked Games Site 
 - [Games (Gitlab)](https://gitlab.com/PyroCentral/Games) — All Games On Soupcan and more...
+- [Games (Github)](https://gitlab.com/PyroCentral/Games) — All Games On Soupcan and more...
 
 ---
 
