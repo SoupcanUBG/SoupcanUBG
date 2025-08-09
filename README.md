@@ -39,7 +39,6 @@
 <p align="center">🔗 <a href="https://soupcan.site">soupcan.site</a> • 🦊 <a href="https://gitlab.com/PyroCentral">GitLab @PyroCentral</a></p>
 
 ![Arch](https://img.shields.io/badge/Arch_Linux-1793D1?logo=arch-linux&logoColor=white)
-![Windows](https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![ChromeOS](https://img.shields.io/badge/ChromeOS-4285F4?logo=googlechrome&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FCA121?logo=gitlab&logoColor=white)
