@@ -1,4 +1,4 @@
-[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-direct-single.svg)](https://stand-with-ukraine.pp.ua/)
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/refs/heads/main/banner2.svg)](https://stand-with-ukraine.pp.ua/)
 
 <h1 align="center">Hey, I'm SoupcanUBG</h1>
 
