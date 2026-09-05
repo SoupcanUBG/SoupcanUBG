@@ -2,9 +2,7 @@
 
 <h1 align="center">Im NotRx</h1>
 [![Discord Presence](https://lanyard.cnrad.dev/api/1390805997144113244)](https://discord.com/users/1390805997144113244)
-[Bio](https://notreallyrx.xyz)
 
 
 
----
 
