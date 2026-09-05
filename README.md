@@ -2,7 +2,10 @@
 
 <h1 align="center">Im NotRx</h1>
 
-[![Discord Presence](https://lanyard.cnrad.dev/api/1390805997144113244)](https://discord.com/users/1390805997144113244)
-
+<p align="center">
+  <a href="https://discord.com/users/1390805997144113244">
+    <img src="https://lanyard.cnrad.dev/api/1390805997144113244" alt="Discord Presence" />
+  </a>
+</p>
 
 
